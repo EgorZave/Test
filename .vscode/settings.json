@@ -1,0 +1,7 @@
+{
+      "path-autocomplete.pathMappings": {
+          "@img": "${folder}/src/image",
+          "@scss": "${folder}/src/scss",
+          "@js": "${folder}/src/js",
+      },
+}
